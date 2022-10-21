@@ -1,0 +1,23 @@
+{
+  "name": "docker-gh",
+  "version": "1.0.0",
+  "description": "Docker with Github Actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komildeveloper/docker-gh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.8.2"
+  },
+  "bugs": {
+    "url": "https://github.com/komildeveloper/docker-gh/issues"
+  },
+  "homepage": "https://github.com/komildeveloper/docker-gh#readme"
+}
